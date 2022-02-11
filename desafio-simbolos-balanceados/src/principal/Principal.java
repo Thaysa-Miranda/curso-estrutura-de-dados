@@ -41,12 +41,12 @@ public class Principal {
 
 		if (contParenteseAberto == contParenteseFechado) {
 
-			System.out.println("A pilha esta balanceada");
+			System.out.println("A expressao esta balanceada");
 		}
 
 		else {
 
-			System.out.println("A pilha esta desbalanceada.");
+			System.out.println("A expressao esta desbalanceada.");
 		}
 
 	}
